@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Patrick Thor",
+    "description": "",
+    "home_page_url": "https://Patho2005Thorick/Portfolio_",
+    "feed_url": "https://Patho2005Thorick/Portfolio_/feed.json",
+    "user_comment": "",
+    "icon": "https://Patho2005Thorick/Portfolio_/media/website/4445942.png",
+    "author": {
+        "name": "PatrickThor"
+    },
+    "items": [
+        {
+            "id": "https://Patho2005Thorick/Portfolio_/my-portfolio/",
+            "url": "https://Patho2005Thorick/Portfolio_/my-portfolio/",
+            "title": "Online Bookshop",
+            "summary": "I and a fellow classmate are currently working on our Diplomarbeit. Our Diplomarbeit consists of an Online Book Shop.&nbsp;",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://Patho2005Thorick/Portfolio_/media/posts/1/used-books-1.jpg\" height=\"400\" width=\"800\" alt=\"\"  sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://Patho2005Thorick/Portfolio_/media/posts/1/responsive/used-books-1-xs.jpg 640w ,https://Patho2005Thorick/Portfolio_/media/posts/1/responsive/used-books-1-sm.jpg 768w ,https://Patho2005Thorick/Portfolio_/media/posts/1/responsive/used-books-1-md.jpg 1024w ,https://Patho2005Thorick/Portfolio_/media/posts/1/responsive/used-books-1-lg.jpg 1366w ,https://Patho2005Thorick/Portfolio_/media/posts/1/responsive/used-books-1-xl.jpg 1600w ,https://Patho2005Thorick/Portfolio_/media/posts/1/responsive/used-books-1-2xl.jpg 1920w\">\n      \n    </figure>\n\n  <p>\n    I and a fellow classmate are currently working on our Diplomarbeit. Our Diplomarbeit consists of an Online Book Shop.&nbsp;\n  </p>",
+            "author": {
+                "name": "PatrickThor"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-15T08:05:57+01:00",
+            "date_modified": "2024-11-15T11:47:12+01:00"
+        }
+    ]
+}

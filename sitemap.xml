@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://Patho2005Thorick/Portfolio_/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://Patho2005Thorick/Portfolio_/</loc>
+</url>
+<url>
+<loc>https://Patho2005Thorick/Portfolio_/about-me/</loc>
+<lastmod>2024-11-15T11:37:47+01:00</lastmod>
+<image:image>
+<image:loc>https://Patho2005Thorick/Portfolio_/media/posts/4/print2sm1-2.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://Patho2005Thorick/Portfolio_/contact/</loc>
+<lastmod>2024-11-15T11:42:48+01:00</lastmod>
+<image:image>
+<image:loc>https://Patho2005Thorick/Portfolio_/media/posts/3/AreYouJustAsLost-3.jpg</image:loc>
+<image:title><![CDATA[lost?]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://Patho2005Thorick/Portfolio_/cv/</loc>
+<lastmod>2024-11-15T10:59:43+01:00</lastmod>
+</url>
+<url>
+<loc>https://Patho2005Thorick/Portfolio_/my-portfolio/</loc>
+<lastmod>2024-11-15T11:47:12+01:00</lastmod>
+<image:image>
+<image:loc>https://Patho2005Thorick/Portfolio_/media/posts/1/used-books-1.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

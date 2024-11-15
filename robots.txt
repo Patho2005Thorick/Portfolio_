@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Patho2005Thorick/Portfolio_/sitemap.xml

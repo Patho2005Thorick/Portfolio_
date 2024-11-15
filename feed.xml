@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Patrick Thor</title>
+    <link href="https://Patho2005Thorick/Portfolio_/feed.xml" rel="self" />
+    <link href="https://Patho2005Thorick/Portfolio_" />
+    <updated>2024-11-15T11:47:12+01:00</updated>
+    <author>
+        <name>PatrickThor</name>
+    </author>
+    <id>https://Patho2005Thorick/Portfolio_</id>
+
+    <entry>
+        <title>Online Bookshop</title>
+        <author>
+            <name>PatrickThor</name>
+        </author>
+        <link href="https://Patho2005Thorick/Portfolio_/my-portfolio/"/>
+        <id>https://Patho2005Thorick/Portfolio_/my-portfolio/</id>
+
+        <updated>2024-11-15T08:05:57+01:00</updated>
+            <summary>
+                <![CDATA[
+                    I and a fellow classmate are currently working on our Diplomarbeit. Our Diplomarbeit consists of an Online Book Shop.&nbsp;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://Patho2005Thorick/Portfolio_/media/posts/1/used-books-1.jpg" height="400" width="800" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://Patho2005Thorick/Portfolio_/media/posts/1/responsive/used-books-1-xs.jpg 640w ,https://Patho2005Thorick/Portfolio_/media/posts/1/responsive/used-books-1-sm.jpg 768w ,https://Patho2005Thorick/Portfolio_/media/posts/1/responsive/used-books-1-md.jpg 1024w ,https://Patho2005Thorick/Portfolio_/media/posts/1/responsive/used-books-1-lg.jpg 1366w ,https://Patho2005Thorick/Portfolio_/media/posts/1/responsive/used-books-1-xl.jpg 1600w ,https://Patho2005Thorick/Portfolio_/media/posts/1/responsive/used-books-1-2xl.jpg 1920w">
+      
+    </figure>
+
+  <p>
+    I and a fellow classmate are currently working on our Diplomarbeit. Our Diplomarbeit consists of an Online Book Shop.&nbsp;
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
